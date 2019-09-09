@@ -1,1 +1,17 @@
-
+body {
+    font-family: sans-serif;
+    background-color: greenyellow;}
+h1 {color:white;
+background-color: forestgreen
+text-shadow: 2px 2px 7px #666666;}
+h1+p {background-color:green;
+color:white}
+p {background-color: beige;
+color: darkgreen}
+ol {list-style-type:upper-roman;}
+th, td{ padding: 9px 12px 12px 12px}
+td{ border:1px solid black;
+padding: 15px;}
+body{ background-image: url(https://res.cloudinary.com/teepublic/image/private/s--bNhxwYpl--/t_Preview/b_rgb:0f7b47,c_lpad,f_jpg,h_630,q_90,w_1200/v1533846146/production/designs/3000969_0.jpg)}
+    !important
+}(this applies to first paragraph after a h1)
